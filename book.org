@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+#+TITLE: Title of the book
+#+AUTHOR: John Doe
+#+LANGUAGE: uk
+#+DATE: 2024
+# #+OPTIONS: date:nil
+#+latex_class: book
+#+LATEX_HEADER: \usepackage[T1,T2A]{fontenc}
+#+LATEX_HEADER: \usepackage[ukrainian,russian,english]{babel}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{caption}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage{verse}
+#+LATEX_HEADER: \usepackage{abstract}
+#+LATEX_HEADER: \captionsetup[figure]{labelformat=simple, labelsep=endash}
+#+LATEX_CLASS_OPTIONS: [oneside]
+
+
+
